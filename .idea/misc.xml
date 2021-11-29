@@ -7,6 +7,13 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.13768115942028986" />
         <entry key="app/src/main/res/layout/item_schedule.xml" value="0.13768115942028986" />
         <entry key="app/src/main/res/layout/item_table_cell.xml" value="0.1203125" />
+        <entry key="app/src/main/res/layout/mintable.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/x_xis.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/x_xis_end.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/y_xis.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/y_xis_end.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/zero_point.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/zero_point_option.xml" value="0.13768115942028986" />
       </map>
     </option>
   </component>

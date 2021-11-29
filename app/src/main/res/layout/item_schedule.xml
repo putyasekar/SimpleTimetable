@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:textSize="14sp"
         android:textStyle="bold"
-        tools:text="데이터 베이스" />
+        tools:text="testing" />
 
     <TextView
         android:id="@+id/room"
